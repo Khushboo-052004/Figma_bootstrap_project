@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cormorant+Garamond:wght@300&family=Gruppo&family=Lato:wght@300&family=Lora:ital,wght@1,700&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cormorant+Garamond:wght@300&family=Edu+NSW+ACT+Foundation&family=Gruppo&family=Lato:wght@300&family=Lora:ital,wght@1,700&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cormorant+Garamond:wght@300&family=Edu+SA+Beginner&family=Gruppo&family=Lato:wght@300&family=Lora:ital,wght@1,700&family=Roboto:wght@700&display=swap');
+
+.spacing {
+    height: 120px;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    letter-spacing: 0.2em;
+    font-size: 20.2445px;
+
+}
+.l{
+    font-style: normal;
+    letter-spacing: 0.1em;
+    font-size: 20.2445px;
+    margin-top: 90px;
+}
+.l1 {
+    font-style: normal;
+    letter-spacing: 0.1em;
+    font-size: 38.2445px;
+}
+.text-uppercase {
+    font-style: normal;
+    letter-spacing: 0.1em;
+    font-size: 24.2445px;
+}
+.box {
+    background-color: lightblue;
+}
+.p {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    font-size: 24.2445px;
+}
+.s {
+    height: 50px;
+}
+.box4 {
+    height: 100px;
+    background: #F5F5F5;
+    box-shadow: 0px 4.00144px 4.00144px #E1E1E1;
+    border-radius: 8.00287px;
+}
+.text {
+    height: 40px;
+}
+.leble {
+    font-size: 25px;
+}
+.pra {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    letter-spacing: 5px;
+
+}
+.pra1 {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    letter-spacing: 7px;
+}
+
+.form-group {
+    height: 70px;
+
+}
+
+.btn {
+    font-style: normal;
+    font-size: 90.9163px;
+    line-height: 23px;
+    height: 80px;
+    margin-top: 20px;
+
+}
+
+.form-control {
+    height: 80px;
+    color: black;
+    margin-top: 20px;
+}
+.prag {
+    font-size: 20px;
+    height: 90px;
+}
